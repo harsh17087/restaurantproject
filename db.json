@@ -1,0 +1,135 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "pname": "Laptop",
+        "pprice": 50000,
+        "pcompany": "Hp"
+      },
+      {
+        "id": "2",
+        "pname": "Keyboard",
+        "pprice": 500,
+        "pcompany": "IBall"
+      },
+      {
+        "id": "3",
+        "pname": "Mouse",
+        "pprice": 1000,
+        "pcompany": "Zebronics"
+      },
+      {
+        "id": "4",
+        "pname": "USB",
+        "pprice": 2000,
+        "pcompany": "Sony"
+      },
+      {
+        "id": "5",
+        "pname": "Adapter",
+        "pprice": "10000",
+        "pcompany": "Toshiba"
+      },
+      {
+        "id": "6",
+        "pname": "Mobile",
+        "pprice": 100000,
+        "pcompany": "Apple"
+      },
+      {
+        "id": "8",
+        "pname": "AudioJack",
+        "pprice": 8000,
+        "pcompany": "Bharat"
+      },
+      {
+        "pname": "Speaker",
+        "pprice": "10000",
+        "pcompany": "JBL",
+        "id": "piCU75j"
+      }
+    ],
+    "users": [
+      {
+        "id": 101,
+        "userid": "admin@gmail.com",
+        "userpass": "admin@123"
+      },
+      {
+        "id": 102,
+        "userid": "king@gmail.com",
+        "userpass": "king@123"
+      },
+      {
+        "id": 103,
+        "userid": "hero@gmail.com",
+        "userpass": "hero@123"
+      }
+    ],
+    "employees": [
+      {
+        "id": "1",
+        "empName": "Harsh",
+        "empPost": "Developer",
+        "empSalary": "100000",
+        "empAddress": "Kolkata",
+        "empCompany": "Google"
+      },
+      {
+        "id": "2",
+        "empName": "Rahul",
+        "empPost": "Developer",
+        "empSalary": "500",
+        "empAddress": "Chennai",
+        "empCompany": "Microsoft"
+      },
+      {
+        "id": "3",
+        "empName": "Gaurav",
+        "empPost": "Tester",
+        "empSalary": "2000",
+        "empAddress": "Pune",
+        "empCompany": "Nvidia"
+      },
+      {
+        "id": "4",
+        "empName": "Suraj",
+        "empPost": "Analyst",
+        "empSalary": "200",
+        "empAddress": "Gurgaon",
+        "empCompany": "Vedantu"
+      },
+      {
+        "id": "5",
+        "empName": "Chandan",
+        "empPost": "Trainee",
+        "empSalary": "1000",
+        "empAddress": "Kolkata",
+        "empCompany": "Juspay"
+      },
+      {
+        "id": "6",
+        "empName": "Vikram",
+        "empPost": "Developer",
+        "empSalary": "1000",
+        "empAddress": "Bangalore",
+        "empCompany": "Quallcomm"
+      },
+      {
+        "id": "7",
+        "empName": "Rohit",
+        "empPost": "Consultant",
+        "empSalary": "2000",
+        "empAddress": "Mumbai",
+        "empCompany": "PwC"
+      },
+      {
+        "id": "8",
+        "empName": "Khusi",
+        "empPost": "Tester",
+        "empSalary": "1000",
+        "empAddress": "Noida",
+        "empCompany": "Amazon"
+      }
+    ]
+  }
